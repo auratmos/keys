@@ -1,7 +1,6 @@
 <div align=center>
 
-# Product Keys
-#### Microsoft Windows Product Keys
+# Microsoft Windows Product Keys
 
 </div>
 
