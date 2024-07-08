@@ -2,7 +2,7 @@
 name: Remove a key!
 about: Remove a product key from the list.
 title: "[Remove Key] (Windows version here)"
-labels: ''
+labels: remove key
 assignees: ''
 
 ---
