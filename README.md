@@ -121,7 +121,7 @@ None yet. [Add one!](#add-keys)
 
 
 # Windows 95
-Because of how Microsoft generated product keys for Windows 95 (and Microsoft Office 97), retail, OEM, and Office 97 keys can easily be generated and used. You can read more about it [here](https://en.wikipedia.org/wiki/Product_key#Windows_95_retail_key). I recommend [EkriirE's Win95 Key Generator](https://retro.network/win95/keygen), a keygen website with a nostalgic feel.
+Because of how Microsoft generated product keys for Windows 95 (and Microsoft Office 97), retail, OEM, and Office 97 keys can easily be generated and used. You can read more about it [here](https://en.wikipedia.org/wiki/Product_key#Windows_95_retail_key). I recommend [EkriirE's Win95 Key Generator](http://retro.network/win95/keygen), a keygen website with a nostalgic feel.
 > [!WARNING]
 > As far as I can tell, this website does not support HTTPS and your connection to the website will not be encrypted and secure. However, it doesn't matter too much as the keys are generated on-device.
 
