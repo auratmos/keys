@@ -90,7 +90,11 @@ None yet. [Add one!](#add-keys)
 
 # Windows XP
 ## Professional
-None yet. [Add one!](#add-keys)
+| XXXXX | XXXXX | XXXXX | XXXXX | XXXXX |
+| - | - | - | - | - |
+| M6TF9 | 8XQ2M | YQK9F | 7TBB2 | XGG88 |
+| MRX3F | 47B9T | 2487J | KWKMF | RPWBY |
+| QC986 | 27D34 | 6M3TY | JJXP9 | TBGMD |
 
 ## Home Edition
 None yet. [Add one!](#add-keys)
