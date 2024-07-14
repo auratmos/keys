@@ -111,7 +111,10 @@ None yet. [Add one!](#add-keys)
 
 
 # Windows 98
-None yet. [Add one!](#add-keys)
+## Second Edition
+| XXXXX | XXXXX | XXXXX | XXXXX | XXXXX |
+| - | - | - | - | - |
+| B8MFR | CFTGQ | C9PBW | VHG3J | 3R3YW |
 
 
 <br>
