@@ -97,7 +97,9 @@ None yet. [Add one!](#add-keys)
 | QC986 | 27D34 | 6M3TY | JJXP9 | TBGMD |
 
 ## Home Edition
-None yet. [Add one!](#add-keys)
+| XXXXX | XXXXX | XXXXX | XXXXX | XXXXX |
+| - | - | - | - | - |
+| BT6R2 | JV9QY | 2QWJ9 | 44VKX | YPDGY |
 
 
 <br>
