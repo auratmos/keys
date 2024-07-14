@@ -104,6 +104,18 @@ None yet. [Add one!](#add-keys)
 
 
 # Windows 2000
+## Professional
+| XXXXX | XXXXX | XXXXX | XXXXX | XXXXX |
+| - | - | - | - | - |
+| DDTPV | TXMX7 | BBGJ9 | WGY8K | B9GHM |
+
+## Server
+None yet. [Add one!](#add-keys)
+
+## Advanced Server
+None yet. [Add one!](#add-keys)
+
+## Datacenter Server
 None yet. [Add one!](#add-keys)
 
 
