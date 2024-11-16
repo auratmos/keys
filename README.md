@@ -109,7 +109,7 @@ None yet. [Add one!](#add-keys)
 ## Professional
 | XXXXX | XXXXX | XXXXX | XXXXX | XXXXX |
 | - | - | - | - | - |
-| DDTPV | TXMX7 | BBGJ9 | WGY8K | B9GHM |
+| RM233 | 2PRQQ | FR4RH | JP89H | 46QYB |
 
 ## Server
 None yet. [Add one!](#add-keys)
