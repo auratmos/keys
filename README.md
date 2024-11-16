@@ -99,7 +99,7 @@ None yet. [Add one!](#add-keys)
 ## Home Edition
 | XXXXX | XXXXX | XXXXX | XXXXX | XXXXX |
 | - | - | - | - | - |
-| BT6R2 | JV9QY | 2QWJ9 | 44VKX | YPDGY |
+| V7BWD | G9YR6 | 9FG87 | 8Q2HV | YJGTG |
 
 
 <br>
